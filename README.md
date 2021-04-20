@@ -9,11 +9,11 @@ Cloud Foundry is an open source platform that allows application development tea
 
 ## Content
 
-- Articles[#Articles]
+- [Articles](#Articles)
   - Buildpacks
-  - CF-for-k8s[#CF-for-k8s]
-  - CI/CD[#CI/CD]
-  - Deployment[#Deployment]
+  - [CF-for-k8s](#cf-for-k8s)
+  - [CI/CD](#cicd)
+  - [Deployment](#Deployment)
   - Installation
   - KubeCF
   - Logging
