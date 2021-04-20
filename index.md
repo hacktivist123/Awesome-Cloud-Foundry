@@ -66,7 +66,7 @@ Cloud Foundry is an open source platform that allows application development tea
 
 This is a list of Articles based on various Cloud Foundry concepts and topics that can be very useful.
 
-## CF-for-K8s
+## Cf-for-K8s
 
 - [Deploy A Java Application To Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/deploy-a-java-application-to-kubernetes-with-cloud-foundry-c3be6c34e0cb)
 - [Deploying Your First PHP Application to Kubernetes Using Cloud Foundry](https://medium.com/cloud-foundry-foundation/deploying-your-first-php-application-to-kubernetes-using-cloud-foundry-901c390165bc)
