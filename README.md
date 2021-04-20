@@ -25,6 +25,7 @@ Cloud Foundry is an open source platform that allows application development tea
 - Conferences
 - [Distributions](#Distributions)
 - Meetup Groups
+- Open Source Tools
 - [Projects](#Projects)
 - Podcasts
 - Slides Presentation
