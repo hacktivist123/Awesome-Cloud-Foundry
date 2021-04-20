@@ -66,7 +66,7 @@ Cloud Foundry is an open source platform that allows application development tea
 
 This is a list of Articles based on various Cloud Foundry concepts and topics that can be very useful.
 
-## Cf-for-K8s
+## CF-for-K8s
 
 - [Deploy A Java Application To Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/deploy-a-java-application-to-kubernetes-with-cloud-foundry-c3be6c34e0cb)
 - [Deploying Your First PHP Application to Kubernetes Using Cloud Foundry](https://medium.com/cloud-foundry-foundation/deploying-your-first-php-application-to-kubernetes-using-cloud-foundry-901c390165bc)
@@ -75,6 +75,10 @@ This is a list of Articles based on various Cloud Foundry concepts and topics th
 - [Installing cf-for-k8s on a Kubernetes Cluster Running on DigitalOcean](https://medium.com/cloud-foundry-foundation/installing-cf-for-k8s-on-a-kubernetes-cluster-running-on-digitalocean-acffdc652dcf)
 - [Installing cf-for-k8s on Google Cloud GKE](https://medium.com/cloud-foundry-foundation/installing-cf-for-k8s-on-google-cloud-gke-5d6902ee99fa)
 - [Using Cloud Native Buildpacks And Deploying to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/using-cloud-native-buildpacks-and-deploying-to-kubernetes-with-cloud-foundry-eca190195fd)
+
+## CI/CD
+
+- 
 
 ## Deployment
 
@@ -89,5 +93,3 @@ This is a list of Articles based on various Cloud Foundry concepts and topics th
 - [How to Deploy a Django App Using Cloud Foundry](https://medium.com/cloud-foundry-foundation/deploy-a-django-app-using-cloud-foundry-8d74769c9a12)
 - [Installing Drupal (PHP) As A First Time Cloud Foundry User](https://medium.com/cloud-foundry-foundation/installing-drupal-php-as-a-first-time-cloud-foundry-user-ef557c3646a6)
 - [Running cf-for-k8s on minikube](https://www.starkandwayne.com/blog/running-cf-for-k8s-on-minikube/)
-
-##
