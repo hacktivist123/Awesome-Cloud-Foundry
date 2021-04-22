@@ -47,7 +47,9 @@ This is a list of Articles based on various Cloud Foundry concepts and topics th
 
 ## CI/CD
 
--
+- [How To Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8)
+- [Cloud Native Dev-To-Deploy Pipeline With GitHub And Cloud Foundry](https://medium.com/cloud-foundry-foundation/cloud-native-dev-to-deploy-pipeline-with-github-and-cloud-foundry-6396715a755f)
+- [Set Up a Continuous Deployment Pipeline for Cloud Foundry Application Using Azure Devops](https://www.c-sharpcorner.com/article/set-up-continuous-deployment-pipeline-for-cloud-foundry-application-us/)
 
 ## Deployment
 
