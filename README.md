@@ -33,7 +33,7 @@ Cloud Foundry is an open source platform that allows application development tea
 
 # Articles
 
-This is a list of Articles based on various Cloud Foundry concepts and topics that can be very useful.
+This is a list of articles based on various Cloud Foundry concepts and topics that are very useful.
 
 ## Buildpacks
 
