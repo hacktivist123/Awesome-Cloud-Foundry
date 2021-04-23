@@ -9,6 +9,6 @@ jobs:
     - name: copy file
       uses: canastro/copy-file-action@master
       with:
-        source: "ReadME.md"
+        source: "README.md"
         target: "index.md"
         flags: "-v"
