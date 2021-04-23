@@ -1,4 +1,4 @@
-# Awesome Cloud Foundry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Cloud Foundry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![copy files](https://github.com/hacktivist123/Awesome-Cloud-Foundry/actions/workflows/main.yml/badge.svg)](https://github.com/hacktivist123/Awesome-Cloud-Foundry/actions/workflows/main.yml)
 
 > A curated list of Cloud Foundry open-source tools, distributions, talks and tutorials(videos and blog post).
 
@@ -10,11 +10,11 @@ Cloud Foundry is an open source platform that allows application development tea
 ## Content
 
 - [Articles](#Articles)
-  - Buildpacks
+  - [Buildpacks](#Buildpacks)
   - [CF-for-k8s](#cf-for-k8s)
   - [CI/CD](#cicd)
   - [Deployment](#Deployment)
-  - Installation
+  - Installation[#Installation]
   - KubeCF
   - Logging
   - Monitoring
@@ -35,6 +35,18 @@ Cloud Foundry is an open source platform that allows application development tea
 
 This is a list of Articles based on various Cloud Foundry concepts and topics that can be very useful.
 
+## Buildpacks
+
+- [Building apps for Kubernetes? Get to Know Paketo Buildpacks](https://medium.com/paketo-buildpacks/building-apps-for-kubernetes-get-to-know-paketo-buildpacks-6dc29b0f3cf3)
+- [Buildpacks with Paketo](https://parserdigital.com/buildpacks-with-paketo/)
+- [Cloud Foundry Buildpacks](http://nanduni.blogspot.com/2016/03/cloud-foundry-buildpacks.html)
+- [Cloud Foundry Buildpacks or Dockerfiles](https://www.suse.com/c/cloud-foundry-builpacks-dockerfiles/)
+- [Creating a Custom Cloud Foundry Buildpack from Scratch: What’s Under the Hood](https://www.altoros.com/blog/creating-a-custom-cloud-foundry-buildpack-from-scratch-whats-under-the-hood/)
+- [Goodbye Dockerfile: Cloud Native Buildpacks with Paketo.io & layered jars for Spring Boot](https://blog.codecentric.de/en/2020/11/buildpacks-spring-boot/)
+- [Using Cloud Native Buildpacks And Deploying to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/using-cloud-native-buildpacks-and-deploying-to-kubernetes-with-cloud-foundry-eca190195fd)
+- [Using the Paketo nginx buildpack to build an nginx Docker image](https://towardsdev.com/using-the-paketo-nginx-buildpack-to-build-an-nginx-docker-image-42f4dc401df8)
+- [What do Paketo Buildpacks Mean for Developers and Operators](https://www.linux.com/audience/developers/what-do-paketo-buildpacks-mean-for-developers-and-operators/)
+
 ## CF-for-K8s
 
 - [Deploy A Java Application To Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/deploy-a-java-application-to-kubernetes-with-cloud-foundry-c3be6c34e0cb)
@@ -47,8 +59,8 @@ This is a list of Articles based on various Cloud Foundry concepts and topics th
 
 ## CI/CD
 
-- [How To Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8)
 - [Cloud Native Dev-To-Deploy Pipeline With GitHub And Cloud Foundry](https://medium.com/cloud-foundry-foundation/cloud-native-dev-to-deploy-pipeline-with-github-and-cloud-foundry-6396715a755f)
+- [How To Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8)
 - [Set Up a Continuous Deployment Pipeline for Cloud Foundry Application Using Azure Devops](https://www.c-sharpcorner.com/article/set-up-continuous-deployment-pipeline-for-cloud-foundry-application-us/)
 
 ## Deployment
@@ -82,6 +94,10 @@ This is a list of Articles based on various Cloud Foundry concepts and topics th
 
 - ## Other Distributions
   - [anynines Public Paas](https://paas.anynines.com/) - Anynines Public PaaS (a9s) is a platform as a service that is built on top of Cloud Foundry
+
+# Installation
+
+- 
 
 # Projects
 
