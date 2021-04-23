@@ -12,3 +12,5 @@ jobs:
         source: "README.md"
         target: "index.md"
         flags: "-v"
+    - shell: bash
+    - run: git add . && git commit -m "update index.md" && git push
