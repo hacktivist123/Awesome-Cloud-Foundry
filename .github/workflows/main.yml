@@ -1,16 +1,20 @@
 name: copy files
-on: [push]
+'on':
+  - push
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: copy file
-      uses: canastro/copy-file-action@master
-      with:
-        source: "README.md"
-        target: "index.md"
-        flags: "-v"
-    - shell: bash
-    - run: git add . && git commit -m "update index.md" && git push
+      - uses: actions/checkout@master
+      - name: copy file
+        uses: canastro/copy-file-action@master
+        with:
+          source: README.md
+          target: index.md
+          flags: '-v'
+  push-to-git:
+    name: push to git
+    runs-on: ubuntu-latest 
+    steps:
+      - run: git add . && git commit -m "update index.md" && git push
