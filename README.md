@@ -1,4 +1,4 @@
-# Awesome Cloud Foundry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Cloud Foundry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![copy files](https://github.com/hacktivist123/Awesome-Cloud-Foundry/actions/workflows/main.yml/badge.svg)](https://github.com/hacktivist123/Awesome-Cloud-Foundry/actions/workflows/main.yml)
 
 > A curated list of Cloud Foundry open-source tools, distributions, talks and tutorials(videos and blog post).
 
