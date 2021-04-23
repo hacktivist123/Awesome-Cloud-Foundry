@@ -13,8 +13,3 @@ jobs:
           source: README.md
           target: index.md
           flags: '-v'
-  push-to-git:
-    name: push to git
-    runs-on: ubuntu-latest 
-    steps:
-      - run: git add . && git commit -m "update index.md" && git push
